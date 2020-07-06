@@ -1,6 +1,6 @@
 class FizzBuzz:
     def __init__(self):
-        self
+        pass
 
     def if_ver(self, num):
         if num % 3 == 0 and num % 5 == 0:

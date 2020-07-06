@@ -2,7 +2,7 @@
 
 class Nabeatsu:
     def __init__(self):
-        self
+        pass
 
     def go_crazy_if_ver(self, num):
         if num % 3 == 0 or "3" in str(num):
