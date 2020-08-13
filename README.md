@@ -1,6 +1,7 @@
 ## Python version for implementation
 
-Python 3.8.1
+* WSL2(Ubuntu 20.04.1 LTS)
+* Python 3.8.5
 
 ## 2. Direcroty Structure
 
