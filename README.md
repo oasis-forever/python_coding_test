@@ -1,7 +1,8 @@
-## Python version for implementation
+## 1. Environment
 
-* WSL2(Ubuntu 20.04.1 LTS)
-* Python 3.8.5
+* WSL(Ubuntu 20.04.1 LTS (GNU/Linux 4.19.128-microsoft-standard x86_64))
+* pyenv 1.2.21
+* Python 3.8.6
 
 ## 2. Direcroty Structure
 
