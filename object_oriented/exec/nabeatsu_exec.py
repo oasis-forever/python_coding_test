@@ -1,5 +1,5 @@
 import sys
-sys.path.append("./lib")
+sys.path.append("../lib")
 from nabeatsu import Nabeatsu
 
 nabeatsu = Nabeatsu()
