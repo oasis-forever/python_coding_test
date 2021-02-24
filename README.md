@@ -1,8 +1,8 @@
 ## 1. Environment
 
 * WSL(Ubuntu 20.04.1 LTS (GNU/Linux 4.19.128-microsoft-standard x86_64))
-* pyenv 1.2.21
-* Python 3.8.6
+* pyenv 1.2.23
+* Python 3.8.7
 
 ## 2. Direcroty Structure
 
